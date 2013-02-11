@@ -182,7 +182,7 @@ class OrderManager:
 
     def run_loop(self):
         while True:
-            sleep(60)
+            sleep(50)
             self.check_orders()
             sys.stdout.write(".")
             sys.stdout.flush()
