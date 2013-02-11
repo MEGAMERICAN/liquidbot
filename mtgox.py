@@ -6,7 +6,7 @@ import json
 class MtGox(object):
     def __init__(self, username=None, password=None):
         self.username = username
-        self.password = password
+        self.password = pword
 
 # Public methods
     def ticker_data(self):
