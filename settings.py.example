@@ -10,7 +10,7 @@ DRY_BTC = 100.0
 DRY_USD = 1000.0
 
 # How many pairs of buy/sell orders to keep open
-ORDER_PAIRS = 3
+ORDER_PAIRS = 5
 
 # How large each order should be, in BTC
 ORDER_SIZE = 10.0
